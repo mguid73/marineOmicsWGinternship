@@ -1,12 +1,10 @@
 # Intro to **rdryad**
 
-#First lets see where we are on the computer and navigate to wherever we want to be
-getwd()
-setwd("~/Desktop")
-
-#Install
+#Install package
 install.packages("rdryad")
+#load package
 library("rdryad")
+#download data from the green anole paper
 dryad_download("10.5061/dryad.g500m")
 
-#lets navigate to that folder now
+#rdryad documentation: https://cran.r-project.org/web/packages/rdryad/rdryad.pdf
