@@ -20,6 +20,7 @@
 * clone on to your computer
 * edit the agenda
 * push back to github
+* [helpful link](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo#fork-an-example-repository)
 
 ## Resources for final talks
 **For later reference**
