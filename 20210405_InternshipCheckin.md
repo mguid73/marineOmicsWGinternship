@@ -14,9 +14,9 @@
 
 ## Literature survey
 * How is it going? Questions?
-- in situ vs. lab work ("L = moved to lab confused her)
-- confindence explanations in the review spreadsheets (if no why?)- notes area
-- web of science is slow (only got through 1/2 of first search string in 10hours)
+	- in situ vs. lab work ("L = moved to lab confused her)
+	- confindence explanations in the review spreadsheets (if no why?)- notes area
+	- web of science is slow (only got through 1/2 of first search string in 10hours)
 - species collected from X location (no lat long or site listed) -- broad area of collection (link from Kaitlin)
 - population sampled over time, are these different population?
 - are we still doing pearling? 
