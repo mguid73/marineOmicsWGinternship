@@ -6,9 +6,11 @@
 
 ## Professional development
 * Chat about your goals going forward
-- fellowship for grad school (funding and fellowship)
-- GRFP 
+	- fellowship for grad school (funding and fellowship)
+	- GRFP 
 * How I help facilitate those within our meetings?
+	- ongoing conversation about grad school application cycle and applying for the GRFP
+	- Megan is open book for slack messages or questions about any of that
 * How can the WG help with those?
 * *Action items:*
 
@@ -17,14 +19,14 @@
 	- in situ vs. lab work ("L = moved to lab confused her)
 	- confindence explanations in the review spreadsheets (if no why?)- notes area
 	- web of science is slow (only got through 1/2 of first search string in 10hours)
-- species collected from X location (no lat long or site listed) -- broad area of collection (link from Kaitlin)
-- population sampled over time, are these different population?
-- are we still doing pearling? 
-- coral colonies sampled from one site -- different populations?
-- excluded pure metabolomics and proteomics
+	- species collected from X location (no lat long or site listed) -- broad area of collection (link from Kaitlin)
+	- population sampled over time, are these different population?
+	- are we still doing pearling? 
+	- coral colonies sampled from one site -- different populations?
+	- excluded pure metabolomics and proteomics
 * walk through process with one or two matches
 * Specific questions you're interested in? 
-- interested in testing out workflows from 
+	- interested in testing out workflows later from other half of the working group (website)
 
 ## Practice forking and cloning this repository
 * fork repository
