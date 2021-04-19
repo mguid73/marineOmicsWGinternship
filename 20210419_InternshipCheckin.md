@@ -21,6 +21,9 @@
 * [Illumina NGS high-level overview](https://www.illumina.com/science/technology/next-generation-sequencing/sequencing-technology.html)
 * Meg to review raw data sheet
 * Specific questions you're interested in for final presenations?
+	- **What materials do the journals require authors to submit?** 
+	- What percentage of papers adhere to Matz's paper about suggestions for data analysis?
+	- How many people will actually respond to requests for information? How long does it take them to reply? What is the response? 
 
 
 ## Practice forking and cloning this repository
