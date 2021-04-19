@@ -13,6 +13,8 @@
 
 ## Literature search
 * How is it going? Questions?
+	- hours on the spreadsheet
+	- different depths different pops?
 * comments on data sheet
 	- [KM_Raw_Lit_list](https://drive.google.com/drive/u/1/folders/122B4Wx4Fz1HBq1TW15o1DAGynpshED3z)
 * [Next-gen sequencing background](https://www.ebi.ac.uk/training/online/courses/functional-genomics-ii-common-technologies-and-data-analysis-methods/next-generation-sequencing/)
