@@ -29,7 +29,7 @@
 * [helpful link](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo#fork-an-example-repository)
 
 
-## [live troubleshooting Google Doc](https://docs.google.com/document/d/1g5yww1NdS_caqj07ubSxOS4FpOHIt0s0LkU3imsh3TU/edit)
+## [live troubleshooting Google Doc](https://docs.google.com/document/d/1UnlBq4aMa8XfRh0ONHIbDHvIIpHqRgHFJfI5CTAYgtc/edit)
 
 ## Resources for final talks
 **For later reference**
