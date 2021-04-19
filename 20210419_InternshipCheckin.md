@@ -11,7 +11,7 @@
 * writing bash script 
 
 
-## Literature search round 2 
+## Literature search
 * How is it going? Questions?
 * comments on data sheet
 	- [KM_Raw_Lit_list](https://drive.google.com/drive/u/1/folders/122B4Wx4Fz1HBq1TW15o1DAGynpshED3z)
